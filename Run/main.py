@@ -3,7 +3,7 @@
 -------------------------------------------------
    File Name：     main.py  
    Description :  运行主函数
-   Author :       JHao
+   Author :       JHao recode by raofei
    date：          2017/4/1
 -------------------------------------------------
    Change Activity:
